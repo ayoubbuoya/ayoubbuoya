@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ayoubbuoya
-- 👀 I’m interested in machine learning, cyber security, automation
+- 👀 I’m interested in web dev and machine learning
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on any type of projects
 
