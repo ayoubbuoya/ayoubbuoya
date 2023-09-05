@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayoub Amer</h1>
 <h3 align="center">Passionate Junior Developer | Full-Stack Web & Blockchain Enthusiast | Eager Learner in Machine Learning</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayoubbuoya" alt="ayoubbuoya" /></a> </p>
-
 - 🌱 I’m currently learning **Blockchain, Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://ayoub-amer.netlify.app/](https://ayoub-amer.netlify.app/)
