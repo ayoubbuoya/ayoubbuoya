@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **Blockchain, Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://ayoub-amer.netlify.app/](https://ayoub-amer.netlify.app/)
+- 👨‍💻 All of my projects are available at [ayoub-amer.netlify.app](https://ayoub-amer.netlify.app/)
 
 - 📫 How to reach me **ayoubamerrr290@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1dLzGoNjCGlxUtWVgEoaBnOv4ysPHYLVS/view?usp=drive_link](https://drive.google.com/file/d/1dLzGoNjCGlxUtWVgEoaBnOv4ysPHYLVS/view?usp=drive_link)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/19Z4kjEPrrCHFM9a1uenUyGeM8G7Mhg7p/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
