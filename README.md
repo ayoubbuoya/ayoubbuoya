@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [ayoub-amer.netlify.app](https://ayoub-amer.netlify.app/)
 
-- 📫 How to reach me **ayoubamerrr290@gmail.com**
+- 📫 How to reach me **ayouub.ameur@gmail.com**
 
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1qloWeX-P_LvE2AkVVWnvpJLgY5xoJTr6/view?usp=sharing)
 
