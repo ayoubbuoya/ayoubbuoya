@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **ayoubamerrr290@gmail.com**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/19Z4kjEPrrCHFM9a1uenUyGeM8G7Mhg7p/view?usp=drive_link)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1qloWeX-P_LvE2AkVVWnvpJLgY5xoJTr6/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
