@@ -7,11 +7,11 @@
 
 - 📫 How to reach me **ayouub.ameur@gmail.com**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1qloWeX-P_LvE2AkVVWnvpJLgY5xoJTr6/view?usp=sharing)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1aF95uN47q03s9JOGzCS9rk1_AzuDAz2T/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ayoub-amer-285b67190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayoub-amer-285b67190" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/amer-ayoub/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayoub-amer-285b67190" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
