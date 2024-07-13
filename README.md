@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Blockchain, Machine Learning**
 
-- 👨‍💻 All of my projects are available at [ayoub-amer.netlify.app](https://ayoub-amer.netlify.app/)
+- 👨‍💻 All of my projects are available at [ayoub-amer.vercel.app](https://ayoub-amer.vercel.app/)
 
 - 📫 How to reach me **ayouub.ameur@gmail.com**
 
