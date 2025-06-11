@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayoub Amer</h1>
-<h3 align="center">Passionate Developer | Full-Stack Web & Blockchain Enthusiast | Committed to Ongoing Learning</h3>
+<h3 align="center">Passionate Web3 Developer | Full-Stack Web & Blockchain Enthusiast | Committed to Ongoing Learning</h3>
 
 - 🌱 I’m currently learning **Blockchain, Machine Learning**
 
