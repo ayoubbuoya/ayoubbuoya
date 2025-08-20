@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayoub Amer</h1>
 <h3 align="center">Passionate Web3 Developer | Full-Stack Web & Blockchain Enthusiast | Committed to Ongoing Learning</h3>
 
-- 🌱 I’m currently learning **Blockchain, Machine Learning**
+- 🌱 I’m currently learning **Rust, Blockchain, AI**
 
 - 👨‍💻 All of my projects are available at [ayoub-amer.vercel.app](https://ayoub-amer.vercel.app/)
 
